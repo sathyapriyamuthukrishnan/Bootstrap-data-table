@@ -1,1 +1,1 @@
-# Bootstrap-table
+# Bootstrap-data-table
